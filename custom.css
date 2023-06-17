@@ -1,0 +1,8 @@
+.rst-content {
+    direction: rtl;
+}
+
+.rst-content blockquote {
+    margin-right: 24px;
+    direction: ltr;
+}
